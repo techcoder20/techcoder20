@@ -12,7 +12,7 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/WKdBuBKhgm)](https://discord.gg/WKdBuBKhgm)
 
 ## My Youtube Channel  
-**I have a youtube channel where I make videos about the RPi and I would really appreciate it if you could check it out**  
+**📺 I have a youtube channel where I make videos about the RPi and I would really appreciate it if you could check it out**  
   
 [![Join our Discord server!](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)
 
