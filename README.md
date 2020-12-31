@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on MacOSBigSurThemeConverter
 - 🌱 I’m currently learning kivy to develop a gui for my bash scripts
 - 👯 I’m looking to collaborate on bash scripts for the raspberry pi
-- 📫 How to reach me: Join My Discord Server
+- 📫 How to reach me: Join My Discord Server  
+   
+  
 [![Join our Discord server!](https://invidget.switchblade.xyz/WKdBuBKhgm)](https://discord.gg/WKdBuBKhgm)
 
 <!--
