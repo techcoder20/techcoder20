@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am RPI Coder also known as techcoder20.
+
+- 🔭 I’m currently working on MacOSBigSurThemeConverter
+- 🌱 I’m currently learning kivy to develop a gui for my bash scripts
+- 👯 I’m looking to collaborate on bash scripts for the raspberry pi
+
 
 <!--
 **techcoder20/techcoder20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
