@@ -3,14 +3,17 @@
 - 🔭 I’m currently working on MacOSBigSurThemeConverter
 - 🌱 I’m currently learning kivy to develop a gui for my bash scripts
 - 👯 I’m looking to collaborate on bash scripts for the raspberry pi
-- 📫 How to reach me: Join My Discord Server  
+
   
   
+## My Discord Server
+**📫 You can reach out to me at my discord server**  
   
 [![Join our Discord server!](https://invidget.switchblade.xyz/WKdBuBKhgm)](https://discord.gg/WKdBuBKhgm)
 
-## My Youtube Channel
+## My Youtube Channel  
 **I have a youtube channel where I make videos about the RPi and I would really appreciate it if you could check it out**  
+  
 [![Join our Discord server!](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)
 
 <!--
