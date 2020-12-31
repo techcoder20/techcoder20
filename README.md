@@ -1,4 +1,4 @@
-### Hi there 👋 I am RPI Coder also known as techcoder20.
+## Hi there 👋 I am RPI Coder also known as techcoder20.
 
 - 🔭 I’m currently working on MacOSBigSurThemeConverter
 - 🌱 I’m currently learning kivy to develop a gui for my bash scripts
@@ -9,7 +9,7 @@
   
 [![Join our Discord server!](https://invidget.switchblade.xyz/WKdBuBKhgm)](https://discord.gg/WKdBuBKhgm)
 
-### My Youtube Channel
+## My Youtube Channel
 **I have a youtube channel where I make videos about the RPi and I would really appreciate it if you could check it out**  
 [![Join our Discord server!](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)
 
