@@ -1,5 +1,3 @@
-[![Youtube Banner](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)
-
 ## Hi there 👋 I am RPI Coder also known as techcoder20.
 
 - 🔭 I’m currently working on MacOSBigSurThemeConverter
@@ -14,6 +12,9 @@
 
 ## Youtube Channel
 **I Run a youtube channel called RPICoder. Please consider checking it out. Link: https:youtube.com/c/rpicoder**
+  
+[![Youtube Banner](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)  
+  
   
 ## Github Stats  
 [![RPI Coder's github stats](https://github-readme-stats.vercel.app/api?username=techcoder20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
