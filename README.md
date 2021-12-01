@@ -11,7 +11,7 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/WKdBuBKhgm)](https://discord.gg/WKdBuBKhgm)
 
 ## Youtube Channel
-**I Run a youtube channel called RPICoder. Please consider checking it out. Link: https:youtube.com/c/rpicoder**
+**I run a youtube channel called RPICoder. Please consider checking it out. Link: https://youtube.com/c/rpicoder**
   
 [![Youtube Banner](https://raw.githubusercontent.com/techcoder20/YoutubeThumbnails/main/YoutubeBanner.png)](https://youtube.com/c/rpicoder)  
   
